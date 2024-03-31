@@ -1,0 +1,14 @@
+{
+  "name": "a2f736822f398b68",
+  "main": "a2f736822f398b68@226.js",
+  "version": "226.0.0",
+  "homepage": "https://observablehq.com/d/a2f736822f398b68",
+  "author": {
+    "name": "beyzacikmz's Workspace",
+    "url": "https://observablehq.com/@beyzacikmz-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
